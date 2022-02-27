@@ -1,0 +1,14 @@
+{
+  "name": "cypress_basico_udemy",
+  "version": "1.0.0",
+  "description": "\"Cypress basico Udemy\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "Jundurian",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.5.0"
+  }
+}
