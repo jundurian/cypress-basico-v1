@@ -1,0 +1,14 @@
+image: 'cypress/base'
+
+stages:
+  - e2e
+
+end-to-end testing:
+  stage: e2e
+  script:
+    - npm install
+    - npm test
+
+nome original do arquivo: .gitlab-cy.yml 
+criado para disparar ci/cd no gitlab como mostrado no curso original
+nome alterado para que o repo fosse para o github
