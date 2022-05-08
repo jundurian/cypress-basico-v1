@@ -25,6 +25,15 @@ Curso ministrado por [Walmyr Lima e Silva Filho](https://www.linkedin.com/in/wal
 - JavaScript
 - [Visual Studio Code](https://code.visualstudio.com/)
 
+## Setup
+
+Após instalar o NodeJS, faça o clone do repo.
+Navegue para a pasta do projeto e execute o seguinte comando para instalar as dependências:
+
+`npm install`
+
+## Como rodar
+
 
 
 
