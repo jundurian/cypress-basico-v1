@@ -34,24 +34,5 @@ Navegue para a pasta do projeto e execute o seguinte comando para instalar as de
 
 ## Como rodar
 
-- Modo interativo
-
-Dentro do projeto:
-`npx cypress open`
-
-Selecione o navegador e clique no arquivo da Spec
-![image](https://user-images.githubusercontent.com/66624772/167314435-1e7ad266-501f-41f6-bed1-36e17878024c.png)
-
-- Modo headless (sem abrir o navegador)
-
-Dentro do projeto:
-`npx cypress run`
-
-Ao final será mostrado o resultado da execução:
-
-![image](https://user-images.githubusercontent.com/66624772/167314613-adc35913-0870-454e-958d-dfea10c1a4b0.png)
-
-
-
-
-
+- Modo interativo -> `npx cypress open`
+- Modo headless (sem abrir o navegador) -> `npx cypress run`
