@@ -16,12 +16,12 @@ Curso ministrado por [Walmyr Lima e Silva Filho](https://www.linkedin.com/in/wal
   - Should
   - As
   - Clear
-- Commandos Customizados
+- Comandos Customizados
 - Fixtures
 
 ## Tools usadas
-- [Cypress](https://www.cypress.io/)
-- [NodeJS](https://nodejs.org/en/)
+- [Cypress](https://www.cypress.io/) - 9.5.0
+- [NodeJS](https://nodejs.org/en/) - 16.14.0
 - JavaScript
 - [Visual Studio Code](https://code.visualstudio.com/)
 
